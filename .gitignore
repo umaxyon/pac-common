@@ -1,0 +1,10 @@
+.idea/
+__pycache__/
+.cache/*
+venv/
+
+mecab/**/*.csv
+mecab/**/*.dic
+mecab/~$mecab_dic.xlsx
+
+sample/dev_dat/*.*

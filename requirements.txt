@@ -1,0 +1,26 @@
+amqp==1.4.9
+anyjson==0.3.3
+attrdict==2.0.0
+beautifulsoup4==4.6.0
+billiard==3.3.0.23
+celery==3.1.25
+certifi==2020.12.5
+cffi==1.14.4
+chardet==3.0.4
+emoji==0.4.5
+idna==2.6
+kombu==3.0.37
+logutils==0.3.5
+natto-py==0.8.0
+numpy==1.20.1
+-e git+https://github.com/umaxyon/pac-common.git@3c1449414c1a539b2259a5da7a40a6f23a26bd9d#egg=pac_common
+pandas==1.2.2
+pycparser==2.20
+pymongo==3.6.0
+python-dateutil==2.8.1
+pytz==2018.3
+redis==2.10.6
+requests==2.18.4
+six==1.15.0
+tzlocal==1.5.1
+urllib3==1.22
